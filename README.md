@@ -1,2 +1,2 @@
-# Python-Statrup
+# Python-Startup
 Covering some of the Python concepts
